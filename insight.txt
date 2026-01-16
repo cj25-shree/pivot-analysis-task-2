@@ -1,0 +1,9 @@
+1. Technology category generates the highest total sales among all product categories, making it the primary revenue driver.
+
+2. The West region contributes the largest share of total sales compared to other regions.
+
+3. Consumer segment outperforms Corporate and Home Office segments in terms of overall sales.
+
+4. Furniture category shows comparatively lower profit margins despite having high sales volumes.
+
+5. Central region records lower average profit margins, indicating potential cost or pricing challenges.
